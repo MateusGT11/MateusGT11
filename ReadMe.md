@@ -1,5 +1,5 @@
-# 💫 About Me:
-📚 Estudante de Sistemas de Informação<br><br>
+# 🌟 Bem-vindo(a) à minha página!
+📚 Sou estudante do curso de Sistemas de Informação<br><br>
 
 
 ## 🌐 Socials:
