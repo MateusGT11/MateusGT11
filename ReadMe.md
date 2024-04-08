@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo(a) à minha página!
 📚 Sou estudante do curso de Sistemas de Informação<br><br>
-Estou me aprimorando e cada vez mais, me farei presente por aqui com novos projetos e ideias para compartilhar!
+Estou me aprimorando e, cada vez mais, me farei presente por aqui com novos projetos e ideias para compartilhar!
 
 
 ## 🌐 Socials:
