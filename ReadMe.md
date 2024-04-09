@@ -15,6 +15,6 @@ Estou me aprimorando e, cada vez mais, me farei presente por aqui com novos proj
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MateusGT11&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGT11&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Visit](https://visitcount.itsvg.in/api?id=MateusGT11&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MateusGTX11&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
